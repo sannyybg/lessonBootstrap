@@ -1,0 +1,97 @@
+
+.headerdiv {
+    height: 81px;
+}
+
+.navitems {
+    font-family: 'Raleway', serif;
+    color: black;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Raleway', serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+P {
+    font-family: 'Raleway', serif;
+}
+
+.carouselimage {
+    height: 569px;
+}
+
+.nextprev {
+    border: 1px solid white;
+    width: 33px;
+    height: 33px;
+    background-color:  black;
+    color: black;
+    border-radius: 5px;
+}
+
+.bgphotto {
+    background-image: url(./images/rect5.png);
+    height: 500px;
+    color: white;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.centeritems {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.fontsz26 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+
+.layericons {
+    width: 56px;
+    height: 53px;
+}
+
+.googlemap {
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}
+
+
+.tourphotos {
+    width: 240px;
+    height: 216px;
+}
+
+
+.footertxt {
+    font-size: 20px;
+    font-family: 'Raleway', serif;
+    color: white;
+} 
+
+.footernavs {
+    font-family: 'Raleway', serif;
+    color: white;
+}
+
+.addresstxt {
+    font-family: 'Raleway', serif;
+    color: white;
+    font-size: 14px;
+
+}
+.mailinput {
+    width: 300px;
+}
+
+
+
+
